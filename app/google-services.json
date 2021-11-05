@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80352637345",
+    "firebase_url": "https://envelope-af104-default-rtdb.firebaseio.com",
+    "project_id": "envelope-af104",
+    "storage_bucket": "envelope-af104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80352637345:android:5948c37e7de57215a9dbe0",
+        "android_client_info": {
+          "package_name": "com.example.envelope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80352637345-efo5tj8aehl9drj6g484dbbthdktfko5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoo0X2axBJwZ6dKZBvDTvsPSOWh7PoJII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80352637345-efo5tj8aehl9drj6g484dbbthdktfko5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
